@@ -54,16 +54,20 @@ Project Nights are set aside for work on the NTI Project. Students are welcome t
 ## Frequently Asked Questions
 
 **What are the key checkpoints?**
-Week 7, Sunday: prior to this day, submit the registration form to confirm you are presenting.
-Week 9, Tuesday: show up and present your project.
+
+- Week 7, Sunday: prior to this day, submit the registration form to confirm you are presenting.
+- Week 9, Tuesday: show up and present your project.
 
 **Do I need to submit my actual work beforehand?**
+
 No. You bring your laptop to the Week 9 Frontier AI Challenge presentations, connect it to the HDMI port, and showcase your project on the board.
 
 **Will there be an order to presentations on the day?**
+
 There is no set order. Participants raise their hand when they are ready to go next. The organising team will have a list of all registered groups. If you do not arrive within the first 30 minutes, you will be marked as absent and will not be eligible for prizes.
 
 **Who judges the projects?**
+
 A panel of academics from the QUT Centre for Data Science (CDS) reviews the projects and determines who receives prizes. The AIML executive team has no influence over prize distribution. As event organisers, however, we do reserve the right to disqualify a participant from receiving a prize if there is evidence that the rules have been broken.
 
 ## Contact
