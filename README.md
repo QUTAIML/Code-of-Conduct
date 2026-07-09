@@ -89,7 +89,7 @@ All participants are expected to adhere to the QUT Student Code of Conduct and r
 
 <br/><br/>
 
-If you have questions or concerns about this Code of Conduct, please contact the Executive Committee at hello@qutams.com
+If you have questions or concerns about this Code of Conduct, please contact the Executive Committee at qut-aiml@outlook.com
 
 
 
