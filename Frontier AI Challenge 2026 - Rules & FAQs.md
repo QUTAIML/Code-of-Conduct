@@ -43,6 +43,22 @@ This is a sponsored initiative with a total prize pool of $500, awarded as follo
 
 Project Nights are set aside for work on the NTI Project. Students are welcome to sit at a separate table during Project Nights to work on the Frontier AI Challenge, but the executive team will not be able to offer direct support for it during that time. We recommend working on the Challenge after Project Nights wraps up.
 
+## Suggested Topic Areas
+
+* **Domain adaptation** — Explore how pretrained models can be adapted to new domains, datasets, or tasks.
+* **Constrained adaptation of large-scale models** — Investigate how large models can be adapted when compute, data, or other resources are limited.
+* **Generative models** — Explore diffusion models, GANs, or other generative modelling approaches.
+* **Semi-supervised learning** — Investigate how labelled and unlabelled data can be combined to improve model performance.
+* **Representation learning** — Explore autoencoders, contrastive learning, or methods for structuring and conditioning embedding spaces.
+* **Agentic AI** — Build and evaluate an agentic AI system or investigate an aspect of agent behaviour.
+* **Reinforcement learning** — Research an RL method or application that is not covered extensively in the standard course content.
+* **Bayesian and robust machine learning** — Explore Bayesian learning, model calibration, noisy labels, or loss-function reformulation.
+* **Sensor and data fusion** — Investigate how data from images, LiDAR, or other sensors can be combined, including CLIP-style or foundation-model approaches.
+
+## Topics Recommended Against
+
+These areas are already covered in existing QUT units such as CAB420 and CAB320, so we recommend choosing something outside of them for the Challenge. This includes linear and regularised regression, classification methods, introduction to deep learning and neural networks, dimension reduction, metric learning, clustering, multi task learning, sequences and attention, search methods such as uninformed and informed search and heuristics, dynamic programming, and tabular reinforcement learning or AlphaZero style methods. That said, you're welcome to choose one of these topics if you go into significant depth and showcase something novel beyond what is taught in the standard unit content.
+
 ## Rules
 
 * **Presentation length**: You will have up to 5 minutes to present and demo your project. An executive will time your speech and give you a signal at the 4 minute mark. Points will be deducted from presentations that run overtime. Please note that this timing is tentative and we may provide more time closer to the date depending on the number of participants.
