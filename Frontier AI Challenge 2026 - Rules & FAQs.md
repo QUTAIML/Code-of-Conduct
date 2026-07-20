@@ -65,6 +65,7 @@ These areas are already covered in existing QUT units such as CAB420 and CAB320,
 * **Format**: There is no set template. You are free to use Canva, Google Sheets, PowerPoint, or any medium that helps you communicate your project.
 * **Live presentation only**: Projects cannot be pre recorded. You will need to stand in front of the judging panel and walk them through your findings in person.
 * **Solo/Duo participation**: This Challenge is designed to be completed individually or in pairs, so teams any larger than 2-persons are not permitted.
+* **Membership**: You must be a member prior to registering in order to participate.
 * **Executive eligibility:** You cannot participate if you are currently on the executive team at an Admin Team level or Director/Manager level. Officers are permitted to participate.
 * **Registration**: You must register in advance so we can plan for the number of participants. A registration link will be shared on our Linktree, where you will be asked to provide your name and student number. Anyone who has not registered will not be permitted to participate on the day.
 
