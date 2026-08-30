@@ -61,7 +61,7 @@ These areas are already covered in existing QUT units such as CAB420 and CAB320,
 
 ## Rules
 
-* **Presentation length**: You will have up to 5 minutes to present and demo your project. An executive will time your speech and give you a signal at the 4 minute mark. Points will be deducted from presentations that run overtime. Please note that this timing is tentative and we may provide more time closer to the date depending on the number of participants.
+* **Presentation length**: You will have up to 5 minutes to present and demo your project. An executive will time your speech and give you a signal at the 4 minute mark. Points will be deducted from presentations that run noticeably overtime. Please note that this timing is tentative and we may provide more time closer to the date depending on the number of participants.
 * **Format**: There is no set template. You are free to use Canva, Google Sheets, PowerPoint, or any medium that helps you communicate your project.
 * **Live presentation only**: Projects cannot be pre recorded. You will need to stand in front of the judging panel and walk them through your findings in person.
 * **Solo/Duo participation**: This Challenge is designed to be completed individually or in pairs, so teams any larger than 2-persons are not permitted.
