@@ -23,11 +23,11 @@ Participants get the chance to:
 
 Projects are assessed on:
 
-* Technical complexity
-* Innovation
-* Research quality
-* Implementation
-* Presentation
+* Technical complexity - The depth and difficulty of the technical work undertaken, and how well the participant(s) applied AI or ML concepts and methods that go beyond the standard curriculum.
+* Innovation - Originality of the topic, approach, or application. Judges will consider whether the project reflects genuine creative thinking rather than a straightforward reproduction of existing work.
+* Research quality - The rigour and depth of the research underpinning the project, including how well relevant literature, methods, or techniques were understood, evaluated, and applied.
+* Implementation - How well the project was built and executed, including whether the prototype or demonstration functions as intended and reflects the level of technical difficulty attempted.
+* Presentation - Clarity, engagement, and professionalism in communicating the project's motivation, approach, and outcomes within the 5 minute presentation and live demo window.
 
 ## Prize Pool
 
