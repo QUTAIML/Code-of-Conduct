@@ -267,5 +267,26 @@ The Executive Committee may investigate concerns, gather information from releva
 
 ---
 
+# Executive Transition and Handover
+
+At the end of each Executive term, outgoing Executive members are expected to support a smooth and respectful transition to the incoming Executive Committee. The following arrangements apply:
+
+### Outgoing Officers
+Outgoing Officers will remain in their roles until the Annual General Meeting. Following the Annual General Meeting, their terms will conclude.
+
+### Outgoing Admin Executives and  Directors
+Outgoing Admin Executives and Directors will remain in their roles until the handover to their successor has been completed. Once the handover is complete, the Admin Team will use its judgement to determine whether the outgoing Director remains in their role until 1 December or concludes their term early.
+
+### Choosing to Conclude a Term Early
+An outgoing Director or Admin Team member who would like to conclude their term early may choose to do so. They are encouraged to let the Admin Team know of their decision and, where reasonably practicable, to complete their handover before stepping down.
+
+Outgoing Executive members should continue to respect the confidentiality of information they became aware of through their role after their term concludes, in line with the Executive Responsibilities set out in this Code.
+
+<br/>
+
+---
+
+<br/>
+
 <br/>
 If you have questions or concerns about this Code of Conduct, please contact the Executive Committee at qut-aiml@outlook.com
